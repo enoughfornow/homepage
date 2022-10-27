@@ -196,7 +196,7 @@
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/enoughfornow)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
+- :airplane: &nbsp;**[Telegram](https://t.me/enoughfornw)**
   <br>
 
  
