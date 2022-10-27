@@ -136,12 +136,6 @@
       </a>
       <br>MUI
     </td>
-   <td align="center"  width="96">
-      <a href="#enoughfornow-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
    <td align="center" width="96">
       <a href="#enoughfornow-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
