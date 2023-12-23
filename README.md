@@ -81,13 +81,13 @@
       </a>
       <br>Prettier
     </td>
-   <td align="center"  width="96">
+   <!-- <td align="center"  width="96">
       <a href="#enoughfornow-stack">
         <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
       </a>
       <br>Cypress
-    </td>
-   <td align="center"  width="96">
+    </td> -->
+   <!-- <td align="center"  width="96">
       <a href="#enoughfornow-stack">
         <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
       </a>
@@ -104,7 +104,7 @@
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
       </a>
       <br>Storybook
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -122,12 +122,12 @@
       <a href="#enoughfornow-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
-      <br>Next JS
+      <!-- <br>Next JS
     </td>
       <td align="center" width="96"> 
       <a href="#enoughfornow-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
+      </a> -->
       <br>Redux
     </td>
      <td align="center" width="96">
@@ -160,12 +160,12 @@
       <a href="#enoughfornow-stack" >
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
       </a>
-      <br>Apollo
+      <!-- <br>Apollo
     </td>
     <td align="center" width="96"> 
       <a href="#enoughfornow-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
+      </a> -->
       <br>Webpack
     </td>
     <td align="center" width="96"> 
@@ -195,7 +195,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=enoughfornow&show_icons=true&locale=en&layout=compact&theme=react" alt="enoughfornow" />
 </a>
 
-- :comet: &nbsp;**[Github](https://github.com/enoughfornow)**
+<!-- - :comet: &nbsp;**[Github](https://github.com/enoughfornow)** -->
 - :airplane: &nbsp;**[Telegram](https://t.me/enoughfornw)**
   <br>
 
