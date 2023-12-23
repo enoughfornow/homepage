@@ -118,16 +118,16 @@
       </a>
       <br>React JS
     </td>
-          <td align="center" width="96"> 
+          <!-- <td align="center" width="96"> 
       <a href="#enoughfornow-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
-      <!-- <br>Next JS
-    </td>
+       <br>Next JS
+    </td> -->
       <td align="center" width="96"> 
       <a href="#enoughfornow-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a> -->
+      </a> 
       <br>Redux
     </td>
      <td align="center" width="96">
